@@ -43,12 +43,14 @@ namespace Exercicios03ao06
             if(valor <= 0)
             {
                 Console.WriteLine("O valor precisa ser maior do que 0!");
+                return;
             }
 
             // valida se há saldo suficiente para realizar a transferência
             if(valor > _saldo)
             {
                 Console.WriteLine("Saldo indisponível");
+                return;
             }
 
             _saldo -= valor;
@@ -72,6 +74,7 @@ namespace Exercicios03ao06
             if (valor <= 0)
             {
                 Console.WriteLine("O valor precisa ser maior do que 0");
+                return;
             }
             else
             {
@@ -85,12 +88,13 @@ namespace Exercicios03ao06
             if (valor <= 0)
             {
                 Console.WriteLine("O valor precisa ser maior do que 0");
+                return;
 
             }
             else if (valor > _saldo)
             {
                 Console.WriteLine("O valor é maior do que o saldo atual!");
-
+                return;
             }
             else
             {
