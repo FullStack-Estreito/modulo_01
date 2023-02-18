@@ -49,11 +49,12 @@ namespace Exercicios03ao06
             // valida se há saldo suficiente para realizar a transferência
             if(valor > _saldo)
             {
-                Console.WriteLine("Saldo indisponível");
+                Console.WriteLine("Saldo insuficiente!");
                 return;
             }
 
-            _saldo -= valor;
+            _saldo = _saldo - valor;
+            //_saldo -= valor;
             conta.Depositar(valor);
 
             Console.WriteLine($"Valor de R$ {valor} transferido com sucesso!");

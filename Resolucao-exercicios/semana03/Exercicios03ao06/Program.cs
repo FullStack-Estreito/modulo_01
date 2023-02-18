@@ -5,9 +5,9 @@ ContaBancaria conta1 = new ContaBancaria(1542, 1234, "Bruno Costa", TipoContaEnu
 ContaBancaria conta2 = new ContaBancaria(1545, 1234, "Breno Costa", TipoContaEnum.POUPANCA);
 
 // testando metodo depositar
-conta1.Depositar(200);
+//conta1.Depositar(200);
 
-conta1.Transferir(conta2, 50);
+conta1.Transferir(conta2, 0);
 
 // exibe o saldo da conta1
 conta1.ExibirSaldo();
