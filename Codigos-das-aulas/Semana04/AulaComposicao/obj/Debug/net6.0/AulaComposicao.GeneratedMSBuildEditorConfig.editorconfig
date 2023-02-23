@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Exercicios01ao06
-build_property.ProjectDir = d:\SENAI\modulo_01\Resolucao-exercicios\semana04\Exercicios01ao06\
+build_property.RootNamespace = AulaComposicao
+build_property.ProjectDir = D:\SENAI\modulo_01\Codigos-das-aulas\Semana04\AulaComposicao\

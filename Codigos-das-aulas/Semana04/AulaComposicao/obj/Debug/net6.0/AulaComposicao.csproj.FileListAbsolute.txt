@@ -1,0 +1,15 @@
+D:\SENAI\modulo_01\Resolucao-exercicios\semana04\AulaComposicao\bin\Debug\net6.0\AulaComposicao.exe
+D:\SENAI\modulo_01\Resolucao-exercicios\semana04\AulaComposicao\bin\Debug\net6.0\AulaComposicao.deps.json
+D:\SENAI\modulo_01\Resolucao-exercicios\semana04\AulaComposicao\bin\Debug\net6.0\AulaComposicao.runtimeconfig.json
+D:\SENAI\modulo_01\Resolucao-exercicios\semana04\AulaComposicao\bin\Debug\net6.0\AulaComposicao.dll
+D:\SENAI\modulo_01\Resolucao-exercicios\semana04\AulaComposicao\bin\Debug\net6.0\AulaComposicao.pdb
+D:\SENAI\modulo_01\Resolucao-exercicios\semana04\AulaComposicao\obj\Debug\net6.0\AulaComposicao.csproj.AssemblyReference.cache
+D:\SENAI\modulo_01\Resolucao-exercicios\semana04\AulaComposicao\obj\Debug\net6.0\AulaComposicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAI\modulo_01\Resolucao-exercicios\semana04\AulaComposicao\obj\Debug\net6.0\AulaComposicao.AssemblyInfoInputs.cache
+D:\SENAI\modulo_01\Resolucao-exercicios\semana04\AulaComposicao\obj\Debug\net6.0\AulaComposicao.AssemblyInfo.cs
+D:\SENAI\modulo_01\Resolucao-exercicios\semana04\AulaComposicao\obj\Debug\net6.0\AulaComposicao.csproj.CoreCompileInputs.cache
+D:\SENAI\modulo_01\Resolucao-exercicios\semana04\AulaComposicao\obj\Debug\net6.0\AulaComposicao.dll
+D:\SENAI\modulo_01\Resolucao-exercicios\semana04\AulaComposicao\obj\Debug\net6.0\refint\AulaComposicao.dll
+D:\SENAI\modulo_01\Resolucao-exercicios\semana04\AulaComposicao\obj\Debug\net6.0\AulaComposicao.pdb
+D:\SENAI\modulo_01\Resolucao-exercicios\semana04\AulaComposicao\obj\Debug\net6.0\AulaComposicao.genruntimeconfig.cache
+D:\SENAI\modulo_01\Resolucao-exercicios\semana04\AulaComposicao\obj\Debug\net6.0\ref\AulaComposicao.dll
