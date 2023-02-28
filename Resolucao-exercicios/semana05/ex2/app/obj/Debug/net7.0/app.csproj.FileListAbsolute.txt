@@ -1,0 +1,15 @@
+/Users/maretoli/Documents/GitHub/modulo_01/Resolucao-exercicios/semana05/ex2/app/bin/Debug/net7.0/app
+/Users/maretoli/Documents/GitHub/modulo_01/Resolucao-exercicios/semana05/ex2/app/bin/Debug/net7.0/app.deps.json
+/Users/maretoli/Documents/GitHub/modulo_01/Resolucao-exercicios/semana05/ex2/app/bin/Debug/net7.0/app.runtimeconfig.json
+/Users/maretoli/Documents/GitHub/modulo_01/Resolucao-exercicios/semana05/ex2/app/bin/Debug/net7.0/app.dll
+/Users/maretoli/Documents/GitHub/modulo_01/Resolucao-exercicios/semana05/ex2/app/bin/Debug/net7.0/app.pdb
+/Users/maretoli/Documents/GitHub/modulo_01/Resolucao-exercicios/semana05/ex2/app/obj/Debug/net7.0/app.csproj.AssemblyReference.cache
+/Users/maretoli/Documents/GitHub/modulo_01/Resolucao-exercicios/semana05/ex2/app/obj/Debug/net7.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maretoli/Documents/GitHub/modulo_01/Resolucao-exercicios/semana05/ex2/app/obj/Debug/net7.0/app.AssemblyInfoInputs.cache
+/Users/maretoli/Documents/GitHub/modulo_01/Resolucao-exercicios/semana05/ex2/app/obj/Debug/net7.0/app.AssemblyInfo.cs
+/Users/maretoli/Documents/GitHub/modulo_01/Resolucao-exercicios/semana05/ex2/app/obj/Debug/net7.0/app.csproj.CoreCompileInputs.cache
+/Users/maretoli/Documents/GitHub/modulo_01/Resolucao-exercicios/semana05/ex2/app/obj/Debug/net7.0/app.dll
+/Users/maretoli/Documents/GitHub/modulo_01/Resolucao-exercicios/semana05/ex2/app/obj/Debug/net7.0/refint/app.dll
+/Users/maretoli/Documents/GitHub/modulo_01/Resolucao-exercicios/semana05/ex2/app/obj/Debug/net7.0/app.pdb
+/Users/maretoli/Documents/GitHub/modulo_01/Resolucao-exercicios/semana05/ex2/app/obj/Debug/net7.0/app.genruntimeconfig.cache
+/Users/maretoli/Documents/GitHub/modulo_01/Resolucao-exercicios/semana05/ex2/app/obj/Debug/net7.0/ref/app.dll
