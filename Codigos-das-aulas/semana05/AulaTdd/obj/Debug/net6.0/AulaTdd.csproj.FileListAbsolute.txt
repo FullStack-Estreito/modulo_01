@@ -1,0 +1,15 @@
+D:\SENAI\modulo_01\Codigos-das-aulas\semana05\AulaTdd\bin\Debug\net6.0\AulaTdd.exe
+D:\SENAI\modulo_01\Codigos-das-aulas\semana05\AulaTdd\bin\Debug\net6.0\AulaTdd.deps.json
+D:\SENAI\modulo_01\Codigos-das-aulas\semana05\AulaTdd\bin\Debug\net6.0\AulaTdd.runtimeconfig.json
+D:\SENAI\modulo_01\Codigos-das-aulas\semana05\AulaTdd\bin\Debug\net6.0\AulaTdd.dll
+D:\SENAI\modulo_01\Codigos-das-aulas\semana05\AulaTdd\bin\Debug\net6.0\AulaTdd.pdb
+D:\SENAI\modulo_01\Codigos-das-aulas\semana05\AulaTdd\obj\Debug\net6.0\AulaTdd.csproj.AssemblyReference.cache
+D:\SENAI\modulo_01\Codigos-das-aulas\semana05\AulaTdd\obj\Debug\net6.0\AulaTdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAI\modulo_01\Codigos-das-aulas\semana05\AulaTdd\obj\Debug\net6.0\AulaTdd.AssemblyInfoInputs.cache
+D:\SENAI\modulo_01\Codigos-das-aulas\semana05\AulaTdd\obj\Debug\net6.0\AulaTdd.AssemblyInfo.cs
+D:\SENAI\modulo_01\Codigos-das-aulas\semana05\AulaTdd\obj\Debug\net6.0\AulaTdd.csproj.CoreCompileInputs.cache
+D:\SENAI\modulo_01\Codigos-das-aulas\semana05\AulaTdd\obj\Debug\net6.0\AulaTdd.dll
+D:\SENAI\modulo_01\Codigos-das-aulas\semana05\AulaTdd\obj\Debug\net6.0\refint\AulaTdd.dll
+D:\SENAI\modulo_01\Codigos-das-aulas\semana05\AulaTdd\obj\Debug\net6.0\AulaTdd.pdb
+D:\SENAI\modulo_01\Codigos-das-aulas\semana05\AulaTdd\obj\Debug\net6.0\AulaTdd.genruntimeconfig.cache
+D:\SENAI\modulo_01\Codigos-das-aulas\semana05\AulaTdd\obj\Debug\net6.0\ref\AulaTdd.dll

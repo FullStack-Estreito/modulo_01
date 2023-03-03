@@ -4,6 +4,7 @@ namespace Exercicios01ao06
 {
     public class ContaBancaria
     {
+        // Resposta exercício 02
         public int Numero { get; protected set; }
         public int Agencia { get; protected set; }
         public decimal Saldo { get; protected set; }
