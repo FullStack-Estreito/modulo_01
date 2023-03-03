@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AulaComposicao.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AulaComposicao.Classes
 {
-    public abstract class Pessoa
+    public abstract class Pessoa 
     {
         // Auto propertie -> Propriedade automática
         public string Nome { get; set; }

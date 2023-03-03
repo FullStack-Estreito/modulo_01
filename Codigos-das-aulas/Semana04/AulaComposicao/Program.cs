@@ -1,25 +1,25 @@
 ﻿using AulaComposicao.Classes;
 
 
-Endereco endereco = new Endereco()
-{
-    Logradouro = "Sua rua",
-    Numero = "123",
-    Estado = "Seu estado",
-    Cidade = "Sua cidade",
-    Pais = "Brasil",
-    CEP = "99000000"
-};
+//Endereco endereco = new Endereco()
+//{
+//    Logradouro = "Sua rua",
+//    Numero = "123",
+//    Estado = "Seu estado",
+//    Cidade = "Sua cidade",
+//    Pais = "Brasil",
+//    CEP = "99000000"
+//};
 
-Cliente paulo = new Cliente("Paulo", DateTime.Parse("1999-01-25"), endereco);
+//Cliente paulo = new Cliente("Paulo", DateTime.Parse("1999-01-25"), endereco);
 
-Aluno bruno = new Aluno("Bruno", DateTime.Parse("1999-01-25"), endereco, "ADS", 1);
+//Aluno bruno = new Aluno("Bruno", DateTime.Parse("1999-01-25"), endereco, "ADS", 1);
 
-Funcionario antonio = new Funcionario("Desenvolvedor", 2000, "Antonio", DateTime.Parse("1999-01-25"), endereco);
+//Funcionario antonio = new Funcionario("Desenvolvedor", 2000, "Antonio", DateTime.Parse("1999-01-25"), endereco);
 
-paulo.Descrever();
-bruno.Descrever();
-antonio.Descrever();
+//paulo.Descrever();
+//bruno.Descrever();
+//antonio.Descrever();
 
 //Cliente bruno = new Cliente();
 
@@ -62,3 +62,24 @@ antonio.Descrever();
 
 //gato.EmitirSom();
 
+
+
+
+//Endereco endereco = new Endereco()
+//{
+//    Logradouro = "Sua rua",
+//    Numero = "123",
+//    Estado = "Seu estado",
+//    Cidade = "Sua cidade",
+//    Pais = "Brasil",
+//    CEP = "99000000"
+//};
+
+
+
+
+//Funcionario antonio = new Funcionario("Desenvolvedor", 2000, "Antonio", DateTime.Parse("1999-01-25"), endereco);
+
+//antonio.ReceberAumento(3000, "Gerente de projeto");
+
+Console.WriteLine(Calculadora.Soma(10, 10));

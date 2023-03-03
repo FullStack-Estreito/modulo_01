@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AulaComposicao.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,6 +17,7 @@ namespace AulaComposicao.Classes
             Salario = salario;
         }
 
+        // Override -> sobrescrita
         public override void FazerAniversario()
         {
             Salario = Salario + (Salario * 10 / 100);
@@ -29,6 +31,23 @@ namespace AulaComposicao.Classes
         public override void Descrever()
         {
             Console.WriteLine($"O funcionário {Nome} nasceu em {Nascimento} e trabalha como {Cargo}");
+        }
+
+        // Sobrecarga
+        public virtual void ReceberAumento()
+        {
+            Salario += 100;
+        }
+
+        public virtual void ReceberAumento(decimal valor)
+        {
+            Salario += valor;
+        }
+
+        public virtual void ReceberAumento(decimal novoValor, string novoCargo)
+        {
+            Cargo = novoCargo;
+            Salario = novoValor;
         }
     }
 }
