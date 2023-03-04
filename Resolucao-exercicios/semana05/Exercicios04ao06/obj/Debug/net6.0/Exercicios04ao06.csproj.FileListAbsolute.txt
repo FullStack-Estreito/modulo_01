@@ -1,0 +1,15 @@
+D:\SENAI\modulo_01\Resolucao-exercicios\semana05\Exercicios04ao06\bin\Debug\net6.0\Exercicios04ao06.exe
+D:\SENAI\modulo_01\Resolucao-exercicios\semana05\Exercicios04ao06\bin\Debug\net6.0\Exercicios04ao06.deps.json
+D:\SENAI\modulo_01\Resolucao-exercicios\semana05\Exercicios04ao06\bin\Debug\net6.0\Exercicios04ao06.runtimeconfig.json
+D:\SENAI\modulo_01\Resolucao-exercicios\semana05\Exercicios04ao06\bin\Debug\net6.0\Exercicios04ao06.dll
+D:\SENAI\modulo_01\Resolucao-exercicios\semana05\Exercicios04ao06\bin\Debug\net6.0\Exercicios04ao06.pdb
+D:\SENAI\modulo_01\Resolucao-exercicios\semana05\Exercicios04ao06\obj\Debug\net6.0\Exercicios04ao06.csproj.AssemblyReference.cache
+D:\SENAI\modulo_01\Resolucao-exercicios\semana05\Exercicios04ao06\obj\Debug\net6.0\Exercicios04ao06.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAI\modulo_01\Resolucao-exercicios\semana05\Exercicios04ao06\obj\Debug\net6.0\Exercicios04ao06.AssemblyInfoInputs.cache
+D:\SENAI\modulo_01\Resolucao-exercicios\semana05\Exercicios04ao06\obj\Debug\net6.0\Exercicios04ao06.AssemblyInfo.cs
+D:\SENAI\modulo_01\Resolucao-exercicios\semana05\Exercicios04ao06\obj\Debug\net6.0\Exercicios04ao06.csproj.CoreCompileInputs.cache
+D:\SENAI\modulo_01\Resolucao-exercicios\semana05\Exercicios04ao06\obj\Debug\net6.0\Exercicios04ao06.dll
+D:\SENAI\modulo_01\Resolucao-exercicios\semana05\Exercicios04ao06\obj\Debug\net6.0\refint\Exercicios04ao06.dll
+D:\SENAI\modulo_01\Resolucao-exercicios\semana05\Exercicios04ao06\obj\Debug\net6.0\Exercicios04ao06.pdb
+D:\SENAI\modulo_01\Resolucao-exercicios\semana05\Exercicios04ao06\obj\Debug\net6.0\Exercicios04ao06.genruntimeconfig.cache
+D:\SENAI\modulo_01\Resolucao-exercicios\semana05\Exercicios04ao06\obj\Debug\net6.0\ref\Exercicios04ao06.dll
