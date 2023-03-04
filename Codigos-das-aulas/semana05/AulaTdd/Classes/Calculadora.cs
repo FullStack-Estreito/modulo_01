@@ -14,7 +14,7 @@ namespace AulaTdd.Classes
         /// <returns></returns>
         public static int Somar(int a, int b)
         {
-            return a % b;
+            return a + b;
         }
 
         /// <summary>
