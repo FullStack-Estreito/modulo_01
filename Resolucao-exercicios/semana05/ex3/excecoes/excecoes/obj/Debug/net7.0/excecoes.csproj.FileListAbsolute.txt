@@ -1,0 +1,15 @@
+/Users/maretoli/Projects/excecoes/excecoes/bin/Debug/net7.0/excecoes
+/Users/maretoli/Projects/excecoes/excecoes/bin/Debug/net7.0/excecoes.deps.json
+/Users/maretoli/Projects/excecoes/excecoes/bin/Debug/net7.0/excecoes.runtimeconfig.json
+/Users/maretoli/Projects/excecoes/excecoes/bin/Debug/net7.0/excecoes.dll
+/Users/maretoli/Projects/excecoes/excecoes/bin/Debug/net7.0/excecoes.pdb
+/Users/maretoli/Projects/excecoes/excecoes/obj/Debug/net7.0/excecoes.csproj.AssemblyReference.cache
+/Users/maretoli/Projects/excecoes/excecoes/obj/Debug/net7.0/excecoes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maretoli/Projects/excecoes/excecoes/obj/Debug/net7.0/excecoes.AssemblyInfoInputs.cache
+/Users/maretoli/Projects/excecoes/excecoes/obj/Debug/net7.0/excecoes.AssemblyInfo.cs
+/Users/maretoli/Projects/excecoes/excecoes/obj/Debug/net7.0/excecoes.csproj.CoreCompileInputs.cache
+/Users/maretoli/Projects/excecoes/excecoes/obj/Debug/net7.0/excecoes.dll
+/Users/maretoli/Projects/excecoes/excecoes/obj/Debug/net7.0/refint/excecoes.dll
+/Users/maretoli/Projects/excecoes/excecoes/obj/Debug/net7.0/excecoes.pdb
+/Users/maretoli/Projects/excecoes/excecoes/obj/Debug/net7.0/excecoes.genruntimeconfig.cache
+/Users/maretoli/Projects/excecoes/excecoes/obj/Debug/net7.0/ref/excecoes.dll
